@@ -1,2 +1,2 @@
-# AGiXT-ISO-GEN
+# AGiXT-ISO
 Creation Of Bootable Ready Made AGiXT Instances
