@@ -1,2 +1,2 @@
 # AGiXT-ISO
-Creation Of Bootable Ready Made AGiXT Instances
+The complete automated script of creating a preinstalled AGiXT ISO 
